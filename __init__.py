@@ -1,7 +1,7 @@
 bl_info = {
     "name": "ASCII",
     "author": "XDRANDY",
-    "version": (11,45,14),
+    "version": (0,0,1),
     "blender": (3, 0, 0),
     "location": "View3D > Sidebar > ASCII Render",
     "description": "Render the active camera view of the current scene to ASCII art in txt file",
