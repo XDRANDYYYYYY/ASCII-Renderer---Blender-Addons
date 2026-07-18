@@ -49,6 +49,11 @@ Download the zip files and follow the instructions here: https://github.com/Pull
 
 ## How to use
 
+Examples:
+
+
+<img width="3592" height="2216" alt="image" src="https://github.com/user-attachments/assets/b55ac03e-5203-42b2-8960-0fd4d83242d5" />
+
 After you import the addon, it should appear here
 
 <img width="327" height="407" alt="Screenshot 2026-07-19 at 1 23 25 AM" src="https://github.com/user-attachments/assets/a21db502-13c9-4999-a893-ccfa6b44172e" />
@@ -57,10 +62,6 @@ Click it, make sure you have an active camera in your scene, place the camera to
 
 Open the text editor in Blender and choose the exported "ascii_output.txt", and you should see the result.
 
-Examples:
-
-
-<img width="3592" height="2216" alt="image" src="https://github.com/user-attachments/assets/b55ac03e-5203-42b2-8960-0fd4d83242d5" />
 
 
 
