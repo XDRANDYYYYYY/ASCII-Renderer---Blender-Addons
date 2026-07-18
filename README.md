@@ -12,7 +12,7 @@ Download the zip files and follow the instruction here: https://github.com/Pullu
 
 
 ## Thoughts and Reference
-Rhis is a personnel learning project, if you wish to learn something:
+This is a personnel learning project, if you wish to learn something:
 
 https://en.wikipedia.org/wiki/Lambert%27s_cosine_law : knowledge about Lambertive reflectance
 
